@@ -1,6 +1,7 @@
 # 👋 yoyooo, I'm Tony
 Welcome to my GitHub profile!
 
+# About Me
 - ❤️ Love to overheat my brain with coding problems
 - 💻 I’m studying software engineering at ÉTS University
 - 🌱 Currently learning: TypeScript, AWS, ML & more!
