@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB5MGVkb2E4ZWJ2NjlvNHd4ZDgyeWhnYTVxdmI0MTRkcHcwaXo5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)" width="40">
 
 ## 👋 yoyooo, I'm Tony
 Welcome to my GitHub profile!
