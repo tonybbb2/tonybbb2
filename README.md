@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 Probably projects that are sitting between questionable and fun, from web apps to really random stuff. Making the most out of my skills.
 
-## Contact 
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dev-tonybui/)
 [Portfolio Website](https://tonybui.ca)
-[LinkedIn](https://www.linkedin.com/in/dev-tonybui/)
 
